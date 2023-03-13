@@ -9,3 +9,8 @@ The goal of this project is to develop a model that can accurately identify user
 - Python 3.6
 - PySpark ML
 - Jupyter
+
+
+## References
+
+Dataset provided by [Udacity](https://cn.udacity.com/).
